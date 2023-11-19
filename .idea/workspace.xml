@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a807e92f-9281-40fa-941f-a488c4368280" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase/HomePage_TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase/MasterPage_TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase/Setups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W7WYtUf4e0lnr6cMzJ79u24if9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/alinaalin/Documents/backup/new organized folder_2023/Programming _new folder organized_2023/QA/My QA Portfolio_01/Mosessco website_Architecture company/webtest_mosessco",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="TestReports" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase" />
+      <recent name="$PROJECT_DIR$/src/test/java/Mosessco_Test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner.menuTest">
+    <configuration name="TestRunner.buttonsHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest_mosessco 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosessco_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mosessco_Test" />
+      <option name="MAIN_CLASS_NAME" value="Mosessco_Test.TestRunner" />
+      <option name="METHOD_NAME" value="buttonsHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.filtersProjectsImageDisplay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest_mosessco 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosessco_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mosessco_Test" />
+      <option name="MAIN_CLASS_NAME" value="Mosessco_Test.TestRunner" />
+      <option name="METHOD_NAME" value="filtersProjectsImageDisplay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.getInTouchSignUpFormTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest_mosessco 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosessco_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mosessco_Test" />
+      <option name="MAIN_CLASS_NAME" value="Mosessco_Test.TestRunner" />
+      <option name="METHOD_NAME" value="getInTouchSignUpFormTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.menuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest_mosessco 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosessco_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mosessco_Test" />
+      <option name="MAIN_CLASS_NAME" value="Mosessco_Test.TestRunner" />
+      <option name="METHOD_NAME" value="menuTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.testOpenURL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webtest_mosessco 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mosessco_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Mosessco_Test" />
+      <option name="MAIN_CLASS_NAME" value="Mosessco_Test.TestRunner" />
+      <option name="METHOD_NAME" value="testOpenURL" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generate Surefire Reports" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="surefire-report:report" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="webtest_mosessco (1)" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="webtest_mosessco" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestRunner.menuTest" />
+      <item itemvalue="JUnit.TestRunner.testOpenURL" />
+      <item itemvalue="JUnit.TestRunner.buttonsHomePage" />
+      <item itemvalue="JUnit.TestRunner.filtersProjectsImageDisplay" />
+      <item itemvalue="JUnit.TestRunner.getInTouchSignUpFormTest (1)" />
+      <item itemvalue="Maven.Generate Surefire Reports" />
+      <item itemvalue="Maven.webtest_mosessco" />
+      <item itemvalue="Maven.webtest_mosessco (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner.menuTest" />
+        <item itemvalue="JUnit.TestRunner.testOpenURL" />
+        <item itemvalue="JUnit.TestRunner.buttonsHomePage" />
+        <item itemvalue="JUnit.TestRunner.filtersProjectsImageDisplay" />
+        <item itemvalue="JUnit.TestRunner.getInTouchSignUpFormTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a807e92f-9281-40fa-941f-a488c4368280" name="Changes" comment="" />
+      <created>1696084150129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696084150129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestBase/MasterPage_TestBase.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Mosessco_Test/TestRunner.java</url>
+          <line>61</line>
+          <properties class="Mosessco_Test.TestRunner" method="topNavTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webtest_mosessco_2$TestRunner_getInTouchSignUpFormTest__1_.ic" NAME="TestRunner.getInTouchSignUpFormTest (1) Coverage Results" MODIFIED="1697854709851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Mosessco_Test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
